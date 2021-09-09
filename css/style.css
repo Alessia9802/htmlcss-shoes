@@ -11,7 +11,9 @@
 }
 
 body {
-  font-family: "Rubik Mono One", sans-serif;
+  /* font-family: "Rubik Mono One", sans-serif; */
+  font-family: futura, sans-serif;
+  font-weight: 900;
 }
 
 .red {
@@ -19,6 +21,7 @@ body {
   width: 100%;
   background-color: red;
   position: relative;
+  color: yellow;
 }
 
 .shoe {
@@ -71,6 +74,7 @@ li a:hover {
   width: 100%;
   background-color: green;
   position: relative;
+  color: yellow;
 }
 
 .yellow {
@@ -78,4 +82,5 @@ li a:hover {
   width: 100%;
   background-color: yellow;
   position: relative;
+  color: green;
 }
